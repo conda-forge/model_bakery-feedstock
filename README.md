@@ -5,7 +5,7 @@ Home: http://github.com/model-bakers/model_bakery
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Smart object creation facility for Django.
 
