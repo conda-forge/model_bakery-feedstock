@@ -5,11 +5,13 @@ Home: http://github.com/model-bakers/model_bakery
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/model_bakery-feedstock/blob/master/LICENSE.txt)
 
 Summary: Smart object creation facility for Django.
 
+Development: https://github.com/model-bakers/model_bakery
 
+Documentation: https://pypi.org/project/model-bakery/
 
 Current build status
 ====================
