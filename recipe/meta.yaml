@@ -1,5 +1,5 @@
 {% set name = "model_bakery" %}
-{% set version = "1.9.0" %}
+{% set version = "1.10.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 99571801a26b85b8dcba7f0ad39750aeb2f2477fe770d2291823e16788785000
+  sha256: 2fef68b299dda34e3556cffbdf0db9f026f7afbc932e69719d1fc92d92093057
 
 build:
   noarch: python
