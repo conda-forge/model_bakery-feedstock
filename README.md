@@ -150,4 +150,5 @@ Feedstock Maintainers
 
 * [@bubblyorca](https://github.com/bubblyorca/)
 * [@mxr-conda](https://github.com/mxr-conda/)
+* [@soapy1](https://github.com/soapy1/)
 
