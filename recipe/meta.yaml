@@ -1,13 +1,13 @@
 {% set name = "model_bakery" %}
-{% set version = "1.24.0" %}
+{% set version = "1.24.1" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 6469223c9fb0eccb021d5c33667b914e9208dd2282d7dc1e55394c2310a7687d
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: 36e448446794b1a29f2bd247d76c1af990e38cb38e9e39870580f4d79899e6a7
 
 build:
   noarch: python
